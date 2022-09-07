@@ -1,6 +1,6 @@
 # Bank Management System Project in Python
 
-### Screenshot - ![ATM program](https://user-images.githubusercontent.com/52548052/166834738-7119ab87-b802-47c9-91d0-c06d7a7b192a.png)
+### Screenshot - !(https://github.com/anirudddh/Bank-Management-System-Project-in-Python/blob/1bd13049b2ea1953f535aa78817df68748a08bdf/Screenshot.jpg)
 ### Video Demo - https://youtu.be/ 
 
 ***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT ME *****  
