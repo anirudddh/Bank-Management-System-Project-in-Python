@@ -1,6 +1,6 @@
 # Bank Management System Project in Python
 
-### Screenshot - (Screenshot.jpg)
+### Screenshot - (.Screenshot.jpg)
 ### Video Demo - https://youtu.be/ 
 
 ***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT ME *****  
